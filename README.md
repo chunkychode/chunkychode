@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - **Calendar sass**
-  - [Signup](https://chunkyauthweb.azurewebsites.net)
-  - [Playground](https://chunkycalql.azurewebsites.net/api/graphql).
+  - [Signup](https://www.ezcaldev.com)
+
