@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- **Calendar sass**
+- **Calendar sass** -  Needed a way to manage app user meetings without dealing with gooogle, outlook and the like. So here's a graphql node, Neo4j C# solution :)
   - [Signup](https://www.ezcaldev.com)
 
+- **New Android Game** - Adventure in learning new things. MAUI, AI and mobile 
+  - [Play Store](https://play.google.com/store/apps/details?id=com.vizi.phraseme)
