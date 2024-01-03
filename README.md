@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 
 - **New Android Game** - Adventure in learning new things. MAUI, AI and mobile 
   - [Play Store](https://play.google.com/store/apps/details?id=com.vizi.phraseme)
+
+- **Console Host** - Can't tell you how many times I stated a new console app to either test something or perform some management task. Here’s my console companion. 
+  - [Repo](https://github.com/chunkychode/ChunkyConsole)
+  - [Nuget](https://www.nuget.org/packages/ChunkyConsole)
+
